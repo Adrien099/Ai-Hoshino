@@ -11,17 +11,10 @@ import moment from 'moment-timezone'
 
 global.owner = [
   ['5218261275256', 'おDanịel.xyz⁩', true],
-  ['5491168239750', 'Samu', true],
-  ['51910108980'],
-  ['5212751090007'],
-  ['5218132588591'],
-  ['5217341430079'],
-  ['5218261009198'],
-  ['5218139760662'],
-  ['5215654055418'],
-  ['5218261000681']
+  ['917439317360', 'ADRIEN', true],
+  
 
-]
+
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -30,12 +23,12 @@ global.prems = []
    
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = ``
-global.author = '{\n "bot": {\n   "name": "Ai Hoshino",\n     "author": "おDanịel.xyz⁩",\n   "status_bot": "active"\n }\n}'
-global.wait = '🐢 *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛᴀ... ฅ^•ﻌ•^ฅ*'
+global.packname = '𝆺𝅥 𝇁 ֹ   𝄄  س ꓹ 𝚫𝐃𝐑𝐈𝚵𝚴  𓂃🪽'
+global.author = '{\n "bot": {\n   "name": "Ai Hoshino",\n     "author": "𝗔𝗱𝗿𝗶𝗲𝗻",\n   "status_bot": "active"\n }\n}'
+global.wait = '🐢 *𝗪𝗮𝗶𝘁 𝗮 𝗺𝗶𝗻 𝘀𝗲𝗻𝗽𝗮𝗶...ฅ( ̳• ◡ • ̳)ฅ*'
 global.botname = '✯ Ai Hoshino - MD ✰'
-global.textbot = `Powered By Starlights Team`
-global.listo = '*Aqui tiene ฅ^•ﻌ•^ฅ*'
+global.textbot = 'Powered By 𝓐𝓭𝓻𝓲𝓮𝓷'
+global.listo = '*𝐇𝐞𝐫𝐞 𝐲𝐨𝐮 𝐠𝐨 ฅ^•ﻌ•^ฅ*'
 global.namechannel = '【 ✯ Starlights Team - Oficial Chanel ✰ 】'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -45,7 +38,7 @@ global.miniurl = fs.readFileSync('./storage/img/miniurl.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.group = 'https://chat.whatsapp.com/DaZrhN5469XDs6lBNmcdOO'
+global.group = 'https://chat.whatsapp.com/EZjCgLTJfRd8LHOyVC163u'
 global.canal = 'https://whatsapp.com/channel/0029VaBfsIwGk1FyaqFcK91S'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
